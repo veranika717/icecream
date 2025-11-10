@@ -36,9 +36,5 @@ Implement a middleware layer (the `IcecreamMachineController`) that connects the
 |----------|--------------------|--------------------|--------------------|--------|
 | **USA** 🇺🇸     | 250g / 30ml / 0ml / 15ml | 150g / 250ml / 0ml / 20ml | 30g / 50ml / 250ml / 60ml | Large, creamy |
 | **Japan** 🇯🇵   | 120g / 15ml / 0ml / 5ml  | 70g / 120ml / 0ml / 10ml  | 15g / 20ml / 150ml / 30ml | Small, light |
-| **Italy** 🇮🇹   | 180g / 25ml / 0ml / 10ml | 100g / 200ml / 0ml / 15ml | 25g / 30ml / 200ml / 50ml | Balanced, classic |
-| **Germany** 🇩🇪 | 200g / 25ml / 0ml / 10ml | 120g / 220ml / 0ml / 20ml | 25g / 40ml / 220ml / 50ml | Rich texture |
-| **Brazil** 🇧🇷  | 220g / 20ml / 0ml / 15ml | 130g / 230ml / 0ml / 25ml | 35g / 40ml / 240ml / 60ml | Sweet & fruity |
-| **India** 🇮🇳   | 200g / 25ml / 0ml / 20ml | 120g / 210ml / 0ml / 20ml | 30g / 40ml / 220ml / 55ml | Creamy & refreshing |
 
 ---
