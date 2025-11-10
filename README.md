@@ -24,8 +24,11 @@ Implement a middleware layer (the `IcecreamMachineController`) that connects the
    - **Water volume (ml)**
 
 5. Send the command to the machine in the format:
+   ```
    "<frozenMass>g <milk>ml <juice>ml <water>ml"
-6. Each region-specific factory must return versions of desserts with **region-dependent ingredient values**  
+   ```
+   
+7. Each region-specific factory must return versions of desserts with **region-dependent ingredient values**  
    (e.g. USA = larger servings, Japan = smaller portions, etc.).
 
 ---
